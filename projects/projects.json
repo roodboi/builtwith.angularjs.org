@@ -1,5 +1,5 @@
 {
-  "featured": "YouTube on PS3",
+  "featured": "Dailybreak",
   "projects": [
     {
       "name": "Shortkeys for Chrome",
@@ -1506,6 +1506,24 @@
         "CSS3",
         "Mobile",
         "jQuery"
+      ]
+    },
+    {
+      "name": "Dailybreak",
+      "thumb": "dailybreak/thumb.jpg",
+      "desc": "Mobile application built on Angular JS inside of Cordova - using SQL lite, CSS transitions and local storage",
+      "url": "https://itunes.apple.com/us/app/dailybreak/id572052036?mt=8&uo=4",
+      "src": "https://itunes.apple.com/us/app/dailybreak/id572052036?mt=8&uo=4",
+      "submitter": "roodboi",
+      "submissionDate": "2013-04-04",
+      "tags": [
+        "Local Storage",
+        "Game",
+        "Animations",
+        "jQuery",
+        "SQL lite",
+        "Web Sockets",
+        "Mobile"
       ]
     }
   ]
